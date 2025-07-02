@@ -26,7 +26,8 @@ A **hash** is what is used to protect passwords and maintain data integrity. Whe
 
 In this case, we will **hash** each word we iterate through and compare them to the target hash (the one we use as input), and if we find a match, we'll output the plaintext password. The final project will look like this:
 
-![[Screenshot 2025-04-27 183104.png]]
+![Screenshot 2025-04-27 183104](https://github.com/user-attachments/assets/bb7771cc-3140-4c91-ac63-1ec744a509c6)
+
 
 We will be using Python's `hashlib` library. You don't need to install it with `pip`, it is a standard library in Python.
 
